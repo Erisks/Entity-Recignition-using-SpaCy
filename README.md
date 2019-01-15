@@ -1,1 +1,1 @@
-# Entity-Recignition-using-SpaCy
+# Entity-Recognition-using-SpaCy
